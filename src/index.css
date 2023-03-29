@@ -30,3 +30,6 @@ code {
   width: 800px;
   height: 80px;
 }
+.footer {
+  border-bottom: 3px solid lightgray;
+}
